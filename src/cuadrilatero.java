@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class cuadrilatero {
 
 	public static void main(String[] agrs) {
-		
+		//comentarios
 		Scanner entrada = new Scanner(System.in);
 		
 		System.out.println("Introduce el numero para la base: ");
